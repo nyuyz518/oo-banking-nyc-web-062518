@@ -56,8 +56,6 @@ class Transfer
  
  end
 
-sean = BankAccount.new ("Sean's account")
-lily = BankAccount.new ("Lil's account")
 transfer = Transfer.new(sean, lily, 40)
 transfer2 = Transfer.new(lily, sean, 75)
 
