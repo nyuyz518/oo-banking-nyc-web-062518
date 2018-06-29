@@ -56,8 +56,8 @@ class Transfer
  
  end
 
-transfer = Transfer.new(sean, lily, 40)
-transfer2 = Transfer.new(lily, sean, 75)
+# transfer = Transfer.new(sean, lily, 40)
+# transfer2 = Transfer.new(lily, sean, 75)
 
-transfer.execute_transaction
-transfer2.execute_transaction
+# transfer.execute_transaction
+# transfer2.execute_transaction
